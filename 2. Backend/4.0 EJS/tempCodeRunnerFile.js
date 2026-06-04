@@ -1,0 +1,1 @@
+{dayType:"a weekday", advice:"It's time to work hard"});
